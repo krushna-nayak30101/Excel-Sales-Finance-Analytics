@@ -1,9 +1,9 @@
 
-# Excel--Sales-Finance--Analytics
+# Excel-Sales-Finance-Analytics
 
 ## AtliQ Hardware Business Intelligence 🖥️📊
 AtliQ Hardware offers premium personal computers and peripherals, in partnership with top retailers such as Croma, Best Buy, Amazon, and Flipkart. This report delves into AtliQ’s sales and financial performance, leveraging data insights to uncover growth opportunities and areas for optimization. Our mission: to enhance product performance and refine regional strategies for improved profitability. 🚀
-
+***___*** ***----------------------***
 ### 🎯 Project Goals
 The core objective of this project is to build a comprehensive business intelligence solution to empower AtliQ with actionable insights through key performance metrics. Here’s what we aim to achieve:
 
@@ -13,17 +13,17 @@ The core objective of this project is to build a comprehensive business intellig
 
 ### Sales Analytics 📊
 
-Key Objectives:
+**Key Objectives**:
 
   * 🏆 **Customer Performance Report** - View Report: A breakdown of customer revenue by segment, helping to identify purchasing patterns and trends.
 
   * 🎯 **Market Performance vs. Target Report** - View Report: A performance analysis of different regions and their alignment with sales targets.  
 
-Purpose of Sales Analytics:
+**Purpose of Sales Analytics**:
 
 Sales analytics enables a deep understanding of product and regional performance. AtliQ can identify top-performing products, uncover growth opportunities in key regions, and refine strategies to maximize profitability.
 
-Insights:
+**Insights**:
 
   * 🥇 **Top 10 Products Report**: Highlights products with significant sales increases from 2020 to 2021.
 
@@ -37,7 +37,7 @@ Insights:
 
 ### Financial Analytics 📊
 
-Key Objectives:
+**Key Objectives**:
 
   * 📅 **P&L Statement by Fiscal Year** - View Report: Tracks financial performance by fiscal year to monitor long-term growth trends.
 
@@ -45,11 +45,11 @@ Key Objectives:
 
   * 🌍 **P&L Statement by Market** - View Report: A profitability analysis of different geographic markets to optimize strategies.
 
-Purpose of Financial Analytics:
+**Purpose of Financial Analytics**:
 
 Financial analytics enables AtliQ to track its financial health, refine budgeting, and ensure sustainable growth. These insights allow for the strategic allocation of resources, highlighting profitable regions and identifying areas that require attention.
 
-Insights:
+**Insights**:
 
   * 💰 **Customer Net Sales Performance**: A 304.5% increase in revenue from 2019 to 2021, highlighting a strong sales growth trajectory.
 
@@ -62,7 +62,7 @@ Insights:
   * 🌍 **P&L by Markets**: Highlights top-performing regions like Japan and New Zealand, while identifying areas such as Germany that need additional attention.
 
 ### Skills 🧑‍💻
-Technical Skills:
+**Technical Skills**:
 
   * 🔄 **ETL Processes**: Expertise in Extract, Transform, and Load (ETL) to streamline data management.
   * 🛠️ **Power Query**: Proficient in transforming and automating data for insightful analysis.
@@ -70,7 +70,7 @@ Technical Skills:
   * 🏗️ **Power Pivot**: Data modeling and relationship building to create effective business reports.
   * 📊 **Pivot Tables**: Crafting dynamic reports with pivot tables to showcase key performance metrics.
 
-Soft Skills:
+**Soft Skills**:
 
   * 💡 **Business-Oriented Approach**: Designing analytics with a focus on business objectives.
   * 🎨 **Report Design: Creating visually appealing and user-friendly reports tailored to executive needs.
