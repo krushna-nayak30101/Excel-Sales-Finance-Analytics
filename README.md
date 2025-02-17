@@ -1,16 +1,18 @@
 
 # Excel--Sales-Finance--Analytics
 
-### AtliQ Hardware Business Intelligence 🖥️📊
+## AtliQ Hardware Business Intelligence 🖥️📊
 AtliQ Hardware offers premium personal computers and peripherals, in partnership with top retailers such as Croma, Best Buy, Amazon, and Flipkart. This report delves into AtliQ’s sales and financial performance, leveraging data insights to uncover growth opportunities and areas for optimization. Our mission: to enhance product performance and refine regional strategies for improved profitability. 🚀
 
-## 🎯 Project Goals
+### 🎯 Project Goals
 The core objective of this project is to build a comprehensive business intelligence solution to empower AtliQ with actionable insights through key performance metrics. Here’s what we aim to achieve:
 
 💡 Develop detailed sales and financial reports to track trends and provide data-driven decision support.
 📈 Identify ways to enhance product offerings and optimize regional sales strategies.
 🏆 Deliver actionable insights to help AtliQ strengthen its market position and boost profitability!
-Sales Analytics 📊
+
+### Sales Analytics 📊
+
 Key Objectives:
 
 🏆 Customer Performance Report - View Report: A breakdown of customer revenue by segment, helping to identify purchasing patterns and trends.
@@ -33,7 +35,7 @@ Insights:
 
 🌍 Top 5 Countries: Identifies the top-performing countries, such as India, USA, and South Korea.
 
-Financial Analytics 📊
+### Financial Analytics 📊
 Key Objectives:
 
 📅 P&L Statement by Fiscal Year - View Report: Tracks financial performance by fiscal year to monitor long-term growth trends.
@@ -58,7 +60,7 @@ Insights:
 
 🌍 P&L by Markets: Highlights top-performing regions like Japan and New Zealand, while identifying areas such as Germany that need additional attention.
 
-Skills 🧑‍💻
+### Skills 🧑‍💻
 Technical Skills:
 
 🔄 ETL Processes: Expertise in Extract, Transform, and Load (ETL) to streamline data management.
