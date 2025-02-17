@@ -3,7 +3,7 @@
 
 ## AtliQ Hardware Business Intelligence 🖥️📊
 AtliQ Hardware offers premium personal computers and peripherals, in partnership with top retailers such as Croma, Best Buy, Amazon, and Flipkart. This report delves into AtliQ’s sales and financial performance, leveraging data insights to uncover growth opportunities and areas for optimization. Our mission: to enhance product performance and refine regional strategies for improved profitability. 🚀
-
+|-|-|
 ### 🎯 Project Goals
 The core objective of this project is to build a comprehensive business intelligence solution to empower AtliQ with actionable insights through key performance metrics. Here’s what we aim to achieve:
 
