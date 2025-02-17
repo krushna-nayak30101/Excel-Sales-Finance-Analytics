@@ -15,7 +15,7 @@ The core objective of this project is to build a comprehensive business intellig
 
 **Key Objectives**:
 
-  * 🏆 **Customer Performance Report** - View Report: A breakdown of customer revenue by segment, helping to identify purchasing patterns and trends.
+  * 🏆 **Customer Performance Report** - [View Report]([url](https://github.com/krushna-nayak30101/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)): A breakdown of customer revenue by segment, helping to identify purchasing patterns and trends.
 
   * 🎯 **Market Performance vs. Target Report** - View Report: A performance analysis of different regions and their alignment with sales targets.  
 
