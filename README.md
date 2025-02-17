@@ -17,7 +17,7 @@ The core objective of this project is to build a comprehensive business intellig
 
   * 🏆 **Customer Performance Report** - [View Report](https://github.com/krushna-nayak30101/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf): A breakdown of customer revenue by segment, helping to identify purchasing patterns and trends.
 
-  * 🎯 **Market Performance vs. Target Report** - View Report: A performance analysis of different regions and their alignment with sales targets.  
+  * 🎯 **Market Performance vs. Target Report** - [View Report](https://github.com/krushna-nayak30101/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf): A performance analysis of different regions and their alignment with sales targets.  
 
 **Purpose of Sales Analytics**:
 
@@ -39,11 +39,11 @@ Sales analytics enables a deep understanding of product and regional performance
 
 **Key Objectives**:
 
-  * 📅 **P&L Statement by Fiscal Year** - View Report: Tracks financial performance by fiscal year to monitor long-term growth trends.
+  * 📅 **P&L Statement by Fiscal Year** - [View Report](https://github.com/krushna-nayak30101/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year%20%26%20Country.pdf): Tracks financial performance by fiscal year to monitor long-term growth trends.
 
-  * 📊 **P&L Statement by Month** - View Report: Analyzes monthly financial performance to ensure timely adjustments.
+  * 📊 **P&L Statement by Month** - [View Report](https://github.com/krushna-nayak30101/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20statement%20by%20Months.pdf): Analyzes monthly financial performance to ensure timely adjustments.
 
-  * 🌍 **P&L Statement by Market** - View Report: A profitability analysis of different geographic markets to optimize strategies.
+  * 🌍 **P&L Statement by Market** - [View Report](https://github.com/krushna-nayak30101/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf): A profitability analysis of different geographic markets to optimize strategies.
 
 **Purpose of Financial Analytics**:
 
